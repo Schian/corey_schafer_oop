@@ -213,7 +213,7 @@ class Manager(Employee):
 
 
 """Creating two instances of the Employee class"""
-emp_1 = Employee("Adam", "Wicks", 50000)
+emp_1 = Employee("John", "Wick", 50000)
 emp_2 = Employee("Test", "User", 60000)
 
 """Printing the the raise amounts in different ways"""
